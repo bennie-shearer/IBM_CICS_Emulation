@@ -1,0 +1,16 @@
+#pragma once
+#define CICS_VERSION_MAJOR 3
+#define CICS_VERSION_MINOR 4
+#define CICS_VERSION_PATCH 6
+#define CICS_VERSION "3.4.6"
+#define CICS_VERSION_STRING "CICS Emulation Enterprise 3.4.6"
+#define CICS_PLATFORM "Windows"
+#define CMAKE_BUILD_TYPE "Debug"
+#define CICS_PLATFORM_WINDOWS
+/* #undef CICS_PLATFORM_LINUX */
+/* #undef CICS_PLATFORM_MACOS */
+#define CICS_ENABLE_SIMD
+#define CICS_ENABLE_THREADING
+#define CICS_ENABLE_ENCRYPTION
+#define CICS_ENABLE_LOGGING
+/* #undef CICS_HAS_OPENSSL */

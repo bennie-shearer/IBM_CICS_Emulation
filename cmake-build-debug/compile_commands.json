@@ -1,0 +1,464 @@
+[
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\common\\CMakeFiles\\cics-common.dir\\src\\types.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\common\\src\\types.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\common\\src\\types.cpp",
+  "output": "libs\\common\\CMakeFiles\\cics-common.dir\\src\\types.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\common\\CMakeFiles\\cics-common.dir\\src\\error.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\common\\src\\error.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\common\\src\\error.cpp",
+  "output": "libs\\common\\CMakeFiles\\cics-common.dir\\src\\error.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\common\\CMakeFiles\\cics-common.dir\\src\\logging.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\common\\src\\logging.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\common\\src\\logging.cpp",
+  "output": "libs\\common\\CMakeFiles\\cics-common.dir\\src\\logging.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\common\\CMakeFiles\\cics-common.dir\\src\\threading.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\common\\src\\threading.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\common\\src\\threading.cpp",
+  "output": "libs\\common\\CMakeFiles\\cics-common.dir\\src\\threading.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/security/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\security\\CMakeFiles\\cics-security.dir\\src\\authentication.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\security\\src\\authentication.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\security\\src\\authentication.cpp",
+  "output": "libs\\security\\CMakeFiles\\cics-security.dir\\src\\authentication.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/security/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\security\\CMakeFiles\\cics-security.dir\\src\\encryption.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\security\\src\\encryption.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\security\\src\\encryption.cpp",
+  "output": "libs\\security\\CMakeFiles\\cics-security.dir\\src\\encryption.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/security/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\security\\CMakeFiles\\cics-security.dir\\src\\security_context.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\security\\src\\security_context.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\security\\src\\security_context.cpp",
+  "output": "libs\\security\\CMakeFiles\\cics-security.dir\\src\\security_context.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/master-catalog/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\master-catalog\\CMakeFiles\\cics-master-catalog.dir\\src\\catalog_entry.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\master-catalog\\src\\catalog_entry.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\master-catalog\\src\\catalog_entry.cpp",
+  "output": "libs\\master-catalog\\CMakeFiles\\cics-master-catalog.dir\\src\\catalog_entry.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/master-catalog/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\master-catalog\\CMakeFiles\\cics-master-catalog.dir\\src\\master_catalog.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\master-catalog\\src\\master_catalog.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\master-catalog\\src\\master_catalog.cpp",
+  "output": "libs\\master-catalog\\CMakeFiles\\cics-master-catalog.dir\\src\\master_catalog.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/master-catalog/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\master-catalog\\CMakeFiles\\cics-master-catalog.dir\\src\\volume_manager.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\master-catalog\\src\\volume_manager.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\master-catalog\\src\\volume_manager.cpp",
+  "output": "libs\\master-catalog\\CMakeFiles\\cics-master-catalog.dir\\src\\volume_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\vsam\\CMakeFiles\\cics-vsam.dir\\src\\ksds_file.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\vsam\\src\\ksds_file.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\vsam\\src\\ksds_file.cpp",
+  "output": "libs\\vsam\\CMakeFiles\\cics-vsam.dir\\src\\ksds_file.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\vsam\\CMakeFiles\\cics-vsam.dir\\src\\vsam_buffer.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\vsam\\src\\vsam_buffer.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\vsam\\src\\vsam_buffer.cpp",
+  "output": "libs\\vsam\\CMakeFiles\\cics-vsam.dir\\src\\vsam_buffer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\vsam\\CMakeFiles\\cics-vsam.dir\\src\\vsam_file.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\vsam\\src\\vsam_file.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\vsam\\src\\vsam_file.cpp",
+  "output": "libs\\vsam\\CMakeFiles\\cics-vsam.dir\\src\\vsam_file.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\vsam\\CMakeFiles\\cics-vsam.dir\\src\\vsam_index.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\vsam\\src\\vsam_index.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\vsam\\src\\vsam_index.cpp",
+  "output": "libs\\vsam\\CMakeFiles\\cics-vsam.dir\\src\\vsam_index.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/dfsmshsm/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\dfsmshsm\\CMakeFiles\\cics-dfsmshsm.dir\\src\\migration_manager.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\dfsmshsm\\src\\migration_manager.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\dfsmshsm\\src\\migration_manager.cpp",
+  "output": "libs\\dfsmshsm\\CMakeFiles\\cics-dfsmshsm.dir\\src\\migration_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/dfsmshsm/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\dfsmshsm\\CMakeFiles\\cics-dfsmshsm.dir\\src\\storage_manager.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\dfsmshsm\\src\\storage_manager.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\dfsmshsm\\src\\storage_manager.cpp",
+  "output": "libs\\dfsmshsm\\CMakeFiles\\cics-dfsmshsm.dir\\src\\storage_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/cics-core/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\cics-core\\CMakeFiles\\cics-cics-core.dir\\src\\cics_manager.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\cics-core\\src\\cics_manager.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\cics-core\\src\\cics_manager.cpp",
+  "output": "libs\\cics-core\\CMakeFiles\\cics-cics-core.dir\\src\\cics_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/cics-core/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\cics-core\\CMakeFiles\\cics-cics-core.dir\\src\\file_control.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\cics-core\\src\\file_control.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\cics-core\\src\\file_control.cpp",
+  "output": "libs\\cics-core\\CMakeFiles\\cics-cics-core.dir\\src\\file_control.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/cics-core/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\cics-core\\CMakeFiles\\cics-cics-core.dir\\src\\program_manager.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\cics-core\\src\\program_manager.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\cics-core\\src\\program_manager.cpp",
+  "output": "libs\\cics-core\\CMakeFiles\\cics-cics-core.dir\\src\\program_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/cics-core/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\cics-core\\CMakeFiles\\cics-cics-core.dir\\src\\transaction_manager.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\cics-core\\src\\transaction_manager.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\cics-core\\src\\transaction_manager.cpp",
+  "output": "libs\\cics-core\\CMakeFiles\\cics-cics-core.dir\\src\\transaction_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/gdg/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\gdg\\CMakeFiles\\cics-gdg.dir\\src\\gdg_manager.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\gdg\\src\\gdg_manager.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\gdg\\src\\gdg_manager.cpp",
+  "output": "libs\\gdg\\CMakeFiles\\cics-gdg.dir\\src\\gdg_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/gdg/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\gdg\\CMakeFiles\\cics-gdg.dir\\src\\generation.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\gdg\\src\\generation.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\gdg\\src\\generation.cpp",
+  "output": "libs\\gdg\\CMakeFiles\\cics-gdg.dir\\src\\generation.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/tsq/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\tsq\\CMakeFiles\\cics-tsq.dir\\src\\tsq_manager.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\tsq\\src\\tsq_manager.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\tsq\\src\\tsq_manager.cpp",
+  "output": "libs\\tsq\\CMakeFiles\\cics-tsq.dir\\src\\tsq_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/tdq/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\tdq\\CMakeFiles\\cics-tdq.dir\\src\\tdq_manager.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\tdq\\src\\tdq_manager.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\tdq\\src\\tdq_manager.cpp",
+  "output": "libs\\tdq\\CMakeFiles\\cics-tdq.dir\\src\\tdq_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/jcl/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\jcl\\CMakeFiles\\cics-jcl.dir\\src\\jcl_parser.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\jcl\\src\\jcl_parser.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\jcl\\src\\jcl_parser.cpp",
+  "output": "libs\\jcl\\CMakeFiles\\cics-jcl.dir\\src\\jcl_parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/copybook/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/ebcdic/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\copybook\\CMakeFiles\\cics-copybook.dir\\src\\copybook.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\copybook\\src\\copybook.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\copybook\\src\\copybook.cpp",
+  "output": "libs\\copybook\\CMakeFiles\\cics-copybook.dir\\src\\copybook.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/interval-control/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\interval-control\\CMakeFiles\\cics-interval-control.dir\\src\\interval_control.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\interval-control\\src\\interval_control.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\interval-control\\src\\interval_control.cpp",
+  "output": "libs\\interval-control\\CMakeFiles\\cics-interval-control.dir\\src\\interval_control.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/task-control/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\task-control\\CMakeFiles\\cics-task-control.dir\\src\\task_control.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\task-control\\src\\task_control.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\task-control\\src\\task_control.cpp",
+  "output": "libs\\task-control\\CMakeFiles\\cics-task-control.dir\\src\\task_control.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/storage-control/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\storage-control\\CMakeFiles\\cics-storage-control.dir\\src\\storage_control.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\storage-control\\src\\storage_control.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\storage-control\\src\\storage_control.cpp",
+  "output": "libs\\storage-control\\CMakeFiles\\cics-storage-control.dir\\src\\storage_control.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/program-control/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\program-control\\CMakeFiles\\cics-program-control.dir\\src\\program_control.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\program-control\\src\\program_control.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\program-control\\src\\program_control.cpp",
+  "output": "libs\\program-control\\CMakeFiles\\cics-program-control.dir\\src\\program_control.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/ebcdic/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\ebcdic\\CMakeFiles\\cics-ebcdic.dir\\src\\ebcdic.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\ebcdic\\src\\ebcdic.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\ebcdic\\src\\ebcdic.cpp",
+  "output": "libs\\ebcdic\\CMakeFiles\\cics-ebcdic.dir\\src\\ebcdic.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/bms/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\bms\\CMakeFiles\\cics-bms.dir\\src\\bms.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\bms\\src\\bms.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\bms\\src\\bms.cpp",
+  "output": "libs\\bms\\CMakeFiles\\cics-bms.dir\\src\\bms.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/dump/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\dump\\CMakeFiles\\cics-dump.dir\\src\\dump.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\dump\\src\\dump.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\dump\\src\\dump.cpp",
+  "output": "libs\\dump\\CMakeFiles\\cics-dump.dir\\src\\dump.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/syncpoint/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\syncpoint\\CMakeFiles\\cics-syncpoint.dir\\src\\syncpoint.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\syncpoint\\src\\syncpoint.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\syncpoint\\src\\syncpoint.cpp",
+  "output": "libs\\syncpoint\\CMakeFiles\\cics-syncpoint.dir\\src\\syncpoint.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/abend-handler/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\abend-handler\\CMakeFiles\\cics-abend-handler.dir\\src\\abend.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\abend-handler\\src\\abend.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\abend-handler\\src\\abend.cpp",
+  "output": "libs\\abend-handler\\CMakeFiles\\cics-abend-handler.dir\\src\\abend.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/channel/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\channel\\CMakeFiles\\cics-channel.dir\\src\\channel.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\channel\\src\\channel.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\channel\\src\\channel.cpp",
+  "output": "libs\\channel\\CMakeFiles\\cics-channel.dir\\src\\channel.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/terminal-control/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\terminal-control\\CMakeFiles\\cics-terminal-control.dir\\src\\terminal.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\terminal-control\\src\\terminal.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\terminal-control\\src\\terminal.cpp",
+  "output": "libs\\terminal-control\\CMakeFiles\\cics-terminal-control.dir\\src\\terminal.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/spool/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\spool\\CMakeFiles\\cics-spool.dir\\src\\spool.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\spool\\src\\spool.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\spool\\src\\spool.cpp",
+  "output": "libs\\spool\\CMakeFiles\\cics-spool.dir\\src\\spool.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/document/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\document\\CMakeFiles\\cics-document.dir\\src\\document.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\document\\src\\document.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\document\\src\\document.cpp",
+  "output": "libs\\document\\CMakeFiles\\cics-document.dir\\src\\document.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/inquire/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\inquire\\CMakeFiles\\cics-inquire.dir\\src\\inquire.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\inquire\\src\\inquire.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\inquire\\src\\inquire.cpp",
+  "output": "libs\\inquire\\CMakeFiles\\cics-inquire.dir\\src\\inquire.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/named-counter/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\named-counter\\CMakeFiles\\cics-named-counter.dir\\src\\counter.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\named-counter\\src\\counter.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\named-counter\\src\\counter.cpp",
+  "output": "libs\\named-counter\\CMakeFiles\\cics-named-counter.dir\\src\\counter.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/journal/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\journal\\CMakeFiles\\cics-journal.dir\\src\\journal.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\journal\\src\\journal.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\journal\\src\\journal.cpp",
+  "output": "libs\\journal\\CMakeFiles\\cics-journal.dir\\src\\journal.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/file-utils/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\file-utils\\CMakeFiles\\cics-file-utils.dir\\src\\file_utils.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\file-utils\\src\\file_utils.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\file-utils\\src\\file_utils.cpp",
+  "output": "libs\\file-utils\\CMakeFiles\\cics-file-utils.dir\\src\\file_utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/datetime/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\datetime\\CMakeFiles\\cics-datetime.dir\\src\\datetime.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\datetime\\src\\datetime.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\datetime\\src\\datetime.cpp",
+  "output": "libs\\datetime\\CMakeFiles\\cics-datetime.dir\\src\\datetime.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/config/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\config\\CMakeFiles\\cics-config.dir\\src\\config.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\config\\src\\config.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\config\\src\\config.cpp",
+  "output": "libs\\config\\CMakeFiles\\cics-config.dir\\src\\config.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/validation/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\validation\\CMakeFiles\\cics-validation.dir\\src\\validation.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\validation\\src\\validation.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\validation\\src\\validation.cpp",
+  "output": "libs\\validation\\CMakeFiles\\cics-validation.dir\\src\\validation.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/string-utils/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\string-utils\\CMakeFiles\\cics-string-utils.dir\\src\\string_utils.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\string-utils\\src\\string_utils.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\string-utils\\src\\string_utils.cpp",
+  "output": "libs\\string-utils\\CMakeFiles\\cics-string-utils.dir\\src\\string_utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/serialization/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\serialization\\CMakeFiles\\cics-serialization.dir\\src\\serialization.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\serialization\\src\\serialization.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\serialization\\src\\serialization.cpp",
+  "output": "libs\\serialization\\CMakeFiles\\cics-serialization.dir\\src\\serialization.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/uuid/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\uuid\\CMakeFiles\\cics-uuid.dir\\src\\uuid.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\uuid\\src\\uuid.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\uuid\\src\\uuid.cpp",
+  "output": "libs\\uuid\\CMakeFiles\\cics-uuid.dir\\src\\uuid.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/compression/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o libs\\compression\\CMakeFiles\\cics-compression.dir\\src\\compression.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\compression\\src\\compression.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\libs\\compression\\src\\compression.cpp",
+  "output": "libs\\compression\\CMakeFiles\\cics-compression.dir\\src\\compression.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/security/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/master-catalog/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/dfsmshsm/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/cics-core/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/gdg/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o apps\\console-demo\\CMakeFiles\\cics-demo.dir\\main.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\apps\\console-demo\\main.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\apps\\console-demo\\main.cpp",
+  "output": "apps\\console-demo\\CMakeFiles\\cics-demo.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/tests/framework  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o tests\\CMakeFiles\\test-types.dir\\unit\\test_types.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\unit\\test_types.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\unit\\test_types.cpp",
+  "output": "tests\\CMakeFiles\\test-types.dir\\unit\\test_types.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/tests/framework  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o tests\\CMakeFiles\\test-error.dir\\unit\\test_error.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\unit\\test_error.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\unit\\test_error.cpp",
+  "output": "tests\\CMakeFiles\\test-error.dir\\unit\\test_error.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/tests/framework  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o tests\\CMakeFiles\\test-vsam.dir\\unit\\test_vsam.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\unit\\test_vsam.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\unit\\test_vsam.cpp",
+  "output": "tests\\CMakeFiles\\test-vsam.dir\\unit\\test_vsam.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/cics-core/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/tests/framework  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o tests\\CMakeFiles\\test-cics.dir\\unit\\test_cics.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\unit\\test_cics.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\unit\\test_cics.cpp",
+  "output": "tests\\CMakeFiles\\test-cics.dir\\unit\\test_cics.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/master-catalog/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/tests/framework  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o tests\\CMakeFiles\\test-vsam-integration.dir\\integration\\test_vsam_integration.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\integration\\test_vsam_integration.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\integration\\test_vsam_integration.cpp",
+  "output": "tests\\CMakeFiles\\test-vsam-integration.dir\\integration\\test_vsam_integration.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/tests/benchmarks  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o tests\\CMakeFiles\\benchmark-vsam.dir\\benchmarks\\benchmark_vsam.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\benchmarks\\benchmark_vsam.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\benchmarks\\benchmark_vsam.cpp",
+  "output": "tests\\CMakeFiles\\benchmark-vsam.dir\\benchmarks\\benchmark_vsam.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/tests/benchmarks  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o tests\\CMakeFiles\\benchmark-main.dir\\benchmarks\\benchmark_main.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\benchmarks\\benchmark_main.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\tests\\benchmarks\\benchmark_main.cpp",
+  "output": "tests\\CMakeFiles\\benchmark-main.dir\\benchmarks\\benchmark_main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\vsam-example.dir\\vsam_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\vsam_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\vsam_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\vsam-example.dir\\vsam_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/cics-core/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\cics-example.dir\\cics_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\cics_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\cics_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\cics-example.dir\\cics_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/cics-core/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\hello-cics.dir\\hello_cics.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\hello_cics.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\hello_cics.cpp",
+  "output": "examples\\basic\\CMakeFiles\\hello-cics.dir\\hello_cics.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/tsq/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\tsq-example.dir\\tsq_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\tsq_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\tsq_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\tsq-example.dir\\tsq_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/tdq/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\tdq-example.dir\\tdq_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\tdq_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\tdq_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\tdq-example.dir\\tdq_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/jcl/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\jcl-example.dir\\jcl_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\jcl_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\jcl_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\jcl-example.dir\\jcl_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/interval-control/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\interval-example.dir\\interval_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\interval_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\interval_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\interval-example.dir\\interval_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/task-control/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\task-example.dir\\task_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\task_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\task_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\task-example.dir\\task_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/storage-control/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\storage-example.dir\\storage_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\storage_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\storage_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\storage-example.dir\\storage_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/ebcdic/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\ebcdic-example.dir\\ebcdic_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\ebcdic_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\ebcdic_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\ebcdic-example.dir\\ebcdic_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/dump/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\dump-example.dir\\dump_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\dump_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\dump_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\dump-example.dir\\dump_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/syncpoint/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\syncpoint-example.dir\\syncpoint_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\syncpoint_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\syncpoint_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\syncpoint-example.dir\\syncpoint_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/channel/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\channel-example.dir\\channel_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\channel_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\channel_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\channel-example.dir\\channel_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/spool/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\spool-example.dir\\spool_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\spool_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\spool_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\spool-example.dir\\spool_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/document/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\document-example.dir\\document_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\document_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\document_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\document-example.dir\\document_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/named-counter/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\counter-example.dir\\counter_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\counter_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\counter_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\counter-example.dir\\counter_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/journal/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\journal-example.dir\\journal_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\journal_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\journal_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\journal-example.dir\\journal_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\basic\\CMakeFiles\\utilities-example.dir\\utilities_example.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\utilities_example.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\basic\\utilities_example.cpp",
+  "output": "examples\\basic\\CMakeFiles\\utilities-example.dir\\utilities_example.cpp.obj"
+},
+{
+  "directory": "C:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.5\\bin\\mingw\\bin\\G__~1.EXE -DCICS_MINGW=1 -DCICS_PLATFORM_WINDOWS=1 -DNOMINMAX -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_WARNINGS -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/cmake-build-debug/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/common/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/security/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/master-catalog/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/vsam/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/cics-core/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/gdg/include -IC:/Users/Benni/CLionProjects/IBM_CICS_Emulation/libs/dfsmshsm/include  -D_WIN32_WINNT=0x0601 -Wno-stringop-overread -Wall -Wextra -Wpedantic -Werror=return-type -Wconversion -Wshadow -msse2 -g -O0 -DCICS_DEBUG -std=c++20 -fdiagnostics-color=always -o examples\\advanced\\CMakeFiles\\complete-system.dir\\complete_system.cpp.obj -c C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\advanced\\complete_system.cpp",
+  "file": "C:\\Users\\Benni\\CLionProjects\\IBM_CICS_Emulation\\examples\\advanced\\complete_system.cpp",
+  "output": "examples\\advanced\\CMakeFiles\\complete-system.dir\\complete_system.cpp.obj"
+}
+]
